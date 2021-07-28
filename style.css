@@ -1,0 +1,49 @@
+.logo {
+  font-weight: bold;
+}
+.blue {
+ background-color: #102952
+}
+.green {
+ background-color: #4dc9a6
+}
+.link-menu {
+  list-style: none;
+}
+.navbar {
+  color: white;
+  height: 60px;
+}
+
+#jumbotron {
+  color: white;
+  height:500px;
+  background-color: #4dc9a6
+}
+.picture {
+  height: 300px;
+  border: 2px solid white;
+}
+.mini-divider-b {
+  height: 2px;
+  background-color: black;
+}
+
+.divider {
+  height: 3px;
+  background-color: white;
+}
+.divider-b {
+  height: 3px;
+  background-color: black;
+}
+.title {
+  color: black;
+}
+.pic {
+  height: 300px;
+}
+.about {
+  height: 400px;
+  color: white;
+}
